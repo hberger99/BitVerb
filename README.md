@@ -1,2 +1,2 @@
 # BitVerb
-Bit-Verb is a multi-effect plugin I created as a final project for the Audio Software Design course at the University of Rochester. It was written in JUCE and contains modules for Reverb, Bit Crushing, and EQ.
+Bit-Verb is a multi-effect plugin I created as a final project for the Audio Software Design II course at the University of Rochester. It was written in JUCE and contains modules for Reverb, Bit Crushing, and EQ. The cool thing about Bit-Verb is that you can use each of the modules individually as well as in combination with one another. This means that it can produce a wide range of sounds from a large concert hall to gritty distortion. This plugin was created from a combination of my own code and JUCE libraries.
